@@ -1,0 +1,10 @@
+
+Community College of Aurora Tuition Report
+------------------------------------------
+Year       Tuition
+-----     --------
+Year 1    $6792.60
+Year 2    $7009.96
+Year 3    $7234.28
+Year 4    $7465.78
+Year 5    $7704.68
